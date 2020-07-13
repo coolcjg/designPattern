@@ -1,6 +1,6 @@
-package Factory.idcard;
+package designPattern.factory.idcard;
 
-import Factory.framework.Product;
+import designPattern.factory.framework.Product;
 
 public class IDCard extends Product {
 	private String owner;

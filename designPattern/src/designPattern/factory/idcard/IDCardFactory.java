@@ -1,10 +1,10 @@
-package Factory.idcard;
+package designPattern.factory.idcard;
 
 import java.awt.List;
 import java.util.ArrayList;
 
-import Factory.framework.Factory;
-import Factory.framework.Product;
+import designPattern.factory.framework.Factory;
+import designPattern.factory.framework.Product;
 
 public class IDCardFactory extends Factory{
 	private ArrayList owners = new ArrayList();

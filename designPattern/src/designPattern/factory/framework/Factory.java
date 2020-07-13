@@ -1,4 +1,4 @@
-package Factory.framework;
+package designPattern.factory.framework;
 
 public abstract class Factory {
 	public final Product create(String owner) {
